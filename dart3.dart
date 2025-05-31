@@ -22,3 +22,4 @@ print("น้ำหนัก: $weight กิโลกรัม");
 print("สูง: $height");
 print("หล่อ/สวย: $isSmart");
 }
+//

@@ -10,5 +10,5 @@ if (x <=20){
 }
 var age = 40;
 age > 60 ? print("Retire") : print("Working");
-
+//
 }
